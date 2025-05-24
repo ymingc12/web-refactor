@@ -7,8 +7,6 @@ The purpose of this project is to practice refactoring the code of a webpage. Th
 Screenshots of webpage:
 
 <img src="./screenshots/1.png" width= 600px>
-<img src="./screenshots/2.png" width= 600px>
-<img src="./screenshots/3.png" width= 600px>
 
 #
 
